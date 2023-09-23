@@ -1,3 +1,3 @@
 Un texto cualquiera
 Modificacion de texto
-Texto extra agregado de forma local
+Nueva modificacion de texto
