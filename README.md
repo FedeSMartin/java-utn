@@ -1,8 +1,8 @@
 
+# NEORIS BECAS + UTNBA
+
 ![Logo](https://drive.google.com/uc?export=view&id=147SAxc-_xxWCGG49kE1O17w7s9KlcDbm)
 
-
-# NEORIS BECAS + UTNBA
 
 ## Description / Descripción
 This is a repository where the solutions to exercises conducted by UTNBA + NEORIS BECAS in the Java Developer course will be stored.
