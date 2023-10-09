@@ -1,12 +1,12 @@
 
 # UTN.BA
 
-![Logo](https://www.frba.utn.edu.ar/wp-content/uploads/2016/08/logo-utn.ba-horizontal-e1471367724904.jpg)
+![Logo](https://sgc.frba.utn.edu.ar/img/logo_utnba.png)
 
 
 ## Description / Descripción
-This is a repository where the solutions to exercises conducted by UTN.BA in the Java Developer course will be stored.
-(Este es un repositorio donde se guardarán las soluciones a los ejercicios realizados por UTN.BA en el curso de Desarrollador Java).
+This repository will store the solutions to the exercises proposed in the Java Developer course taught by UTN.BA.
+(En este repositorio se guardarán las soluciones a los ejercicios propuestos en el curso Desarrollador Java impartido por la UTN.BA).
 
 ## Installation / Instalación
 Here, JDK 17.0.8 and Eclipse IDE Eclipse IDE for Java Developers (includes Incubating components) Version: 2023-09 (4.29.0) are used.
