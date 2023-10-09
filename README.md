@@ -1,12 +1,12 @@
 
-# NEORIS BECAS + UTNBA
+# UTN.BA
 
-![Logo](https://drive.google.com/uc?export=view&id=147SAxc-_xxWCGG49kE1O17w7s9KlcDbm)
+![Logo](https://www.frba.utn.edu.ar/wp-content/uploads/2016/08/logo-utn.ba-horizontal-e1471367724904.jpg)
 
 
 ## Description / Descripción
-This is a repository where the solutions to exercises conducted by UTNBA + NEORIS BECAS in the Java Developer course will be stored.
-(Este es un repositorio donde se guardarán las soluciones a los ejercicios realizados por UTNBA + NEORIS BECAS en el curso de Desarrollador Java).
+This is a repository where the solutions to exercises conducted by UTN.BA in the Java Developer course will be stored.
+(Este es un repositorio donde se guardarán las soluciones a los ejercicios realizados por UTN.BA en el curso de Desarrollador Java).
 
 ## Installation / Instalación
 Here, JDK 17.0.8 and Eclipse IDE Eclipse IDE for Java Developers (includes Incubating components) Version: 2023-09 (4.29.0) are used.
